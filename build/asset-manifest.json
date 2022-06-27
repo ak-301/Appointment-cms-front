@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abec9829.css",
+    "main.js": "/static/js/main.a1d04284.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/nailart.jpg": "/static/media/nailart.6d653167c85b6cd49dcf.jpg",
+    "index.html": "/index.html",
+    "main.abec9829.css.map": "/static/css/main.abec9829.css.map",
+    "main.a1d04284.js.map": "/static/js/main.a1d04284.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abec9829.css",
+    "static/js/main.a1d04284.js"
+  ]
+}

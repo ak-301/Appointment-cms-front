@@ -25,7 +25,7 @@ const FormPage = () => {
     
 
     const submitResponse = async () => {
-        await fetch('http://localhost:8000/orders',{
+        await fetch('https://nail-cms.herokuapp.com/orders',{
             method:'POST',
             headers: {
                 "Content-Type": "application/json"

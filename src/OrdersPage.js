@@ -10,7 +10,7 @@ const OrdersPage = () => {
 
 
     const getUsers = async () => {
-        const response = await fetch("http://nail-cms.herokuapp.com/orders", {
+        const response = await fetch("https://nail-cms.herokuapp.com/orders", {
             headers: {
                 "Content-Type": "application/json"
             }
@@ -25,7 +25,7 @@ const OrdersPage = () => {
     );
 
     const deleteUser = async (id) => {
-        await fetch(`http://nail-cms.herokuapp.com/orders/${id}`,
+        await fetch(`https://nail-cms.herokuapp.com/orders/${id}`,
             {
                 method: "DELETE",
                 headers: {
